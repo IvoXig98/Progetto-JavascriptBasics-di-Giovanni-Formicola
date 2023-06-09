@@ -1,0 +1,37 @@
+#counter-container {
+    text-align: center;
+    margin-top: 50px;
+    background: linear-gradient(to right, rgb(207, 207, 207), rgb(170, 170, 170));
+    border-style: solid;
+    width: 300px;
+    border-radius: 3%;
+    height: 450px;
+    border-width: 7px;
+}
+
+#counter {
+  font-size: 100px;
+  padding-top: 75px;
+  padding-bottom: 75px;
+  background-color: rgb(193, 215, 52);
+  font-family:  Arial, sans-serif;
+  border-bottom-style: solid;
+}
+
+button {
+  font-size: 24px;
+  padding: 10px 20px;
+  background-color: #4CAF50;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-top: 45px;
+  margin-right: 10px;
+  width: 80px;
+  height: 80px;
+}
+
+button:hover {
+  background-color: #45a049;
+}
